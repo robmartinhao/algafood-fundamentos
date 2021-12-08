@@ -1,0 +1,4 @@
+java -jar target/algafood-fundamentos-0.0.1-SNAPSHOT.jar --spring.profiles.active=production
+
+export SPRING_PROFILES_ACTIVE=production
+java -jar target/algafood-fundamentos-0.0.1-SNAPSHOT.jar
